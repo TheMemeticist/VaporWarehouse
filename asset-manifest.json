@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/VaporWarehouse/static/css/main.eebc4f1b.css",
+    "main.js": "/VaporWarehouse/static/js/main.20dd37b6.js",
+    "static/js/651.22e599ec.chunk.js": "/VaporWarehouse/static/js/651.22e599ec.chunk.js",
+    "static/media/VW-Logo-Alpha.png": "/VaporWarehouse/static/media/VW-Logo-Alpha.7202480d08cd671a9ce9.png",
+    "static/media/VW-Logo-Sun-Alpha.png": "/VaporWarehouse/static/media/VW-Logo-Sun-Alpha.c4d6e5bdc73e5953fbad.png",
+    "static/media/VW-Logo-Warehouse-Alpha.png": "/VaporWarehouse/static/media/VW-Logo-Warehouse-Alpha.b23f0c8ea601bf1426c5.png",
+    "index.html": "/VaporWarehouse/index.html",
+    "main.eebc4f1b.css.map": "/VaporWarehouse/static/css/main.eebc4f1b.css.map",
+    "main.20dd37b6.js.map": "/VaporWarehouse/static/js/main.20dd37b6.js.map",
+    "651.22e599ec.chunk.js.map": "/VaporWarehouse/static/js/651.22e599ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eebc4f1b.css",
+    "static/js/main.20dd37b6.js"
+  ]
+}
